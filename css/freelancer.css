@@ -457,3 +457,7 @@ footer {
 .panel-title a{
   color:#333;
 }
+
+.panel-body{
+  margin-left: 20px;
+}
