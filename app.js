@@ -61,7 +61,7 @@ function init() {
     mountainColor = blendColors(red, "#999999", .5),
     flexHeight = idealHeight / canvas.height,
     drawing = new Image,
-    drawing.src = "./../vf2.png",
+    drawing.src = "vf2.png",
     drawing.onload = function() {}
     ,
     rangeHeights = [];
