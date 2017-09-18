@@ -461,3 +461,7 @@ footer {
 .panel-body{
   margin-left: 20px;
 }
+
+.panel-group{
+  text-shadow: 1px 1px #666;
+}
