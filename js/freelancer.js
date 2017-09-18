@@ -26,14 +26,14 @@
     offset: 54
   });
 
-  // Collapse the navbar when page is scrolled
-  $(window).scroll(function() {
-    if ($("#mainNav").offset().top > 100) {
-      $("#mainNav").addClass("navbar-shrink");
-    } else {
-      $("#mainNav").removeClass("navbar-shrink");
-    }
-  });
+  // // Collapse the navbar when page is scrolled
+  // $(window).scroll(function() {
+  //   if ($("#mainNav").offset().top > 100) {
+  //     $("#mainNav").addClass("navbar-shrink");
+  //   } else {
+  //     $("#mainNav").removeClass("navbar-shrink");
+  //   }
+  // });
 
   // Floating label headings for the contact form
   $(function() {
