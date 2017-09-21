@@ -462,6 +462,6 @@ footer {
   margin-left: 20px;
 }
 
-.panel-group{
-  text-shadow: 1px 1px 1px rgba(100, 100, 100, 0.5);
+#contact{
+  text-shadow: 0px 0px 3px rgba(255, 255, 255, 1);
 }
