@@ -5,6 +5,7 @@
  */
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: cornflowerblue;
   overflow-x: hidden; }
 
 p {
@@ -462,6 +463,6 @@ footer {
   margin-left: 20px;
 }
 
-#contact{
-  text-shadow: 0px 0px 3px rgba(255, 255, 255, 1);
+.extra-info{
+  padding-left: 5em;
 }
