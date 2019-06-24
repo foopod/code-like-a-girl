@@ -63,7 +63,7 @@ hr.star-primary {
   border-color: #2C3E50; }
 
 hr.star-primary:after {
-  color: #2C3E50;
+  color: #ddd;
   /*background-color: white; */
   }
 
@@ -174,7 +174,7 @@ header.masthead {
   header.masthead .intro-text .name {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     margin-top:3em;
-    font-size: 4em;
+    font-size: 1em;
     font-weight: 700;
     display: block;
     text-transform: uppercase; }
@@ -187,8 +187,8 @@ header.masthead {
     padding-top: 200px;
     padding-bottom: 100px; }
     header.masthead .intro-text .name {
-      font-size: 8.75em;
-      margin-top:0.5em; }
+      font-size: 5.75em;
+      margin-top:0em; }
     header.masthead .intro-text .skills {
       font-size: 1.75em; } }
 
