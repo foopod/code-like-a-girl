@@ -455,9 +455,6 @@ footer {
 .btn:focus {
   outline: none; }
 
-.panel-title a{
-  color:#333;
-}
 
 .panel-body{
   margin-left: 20px;
@@ -465,4 +462,16 @@ footer {
 
 .extra-info{
   padding-left: 5em;
+}
+
+#particles-js{
+    width: 100%; 
+    height: 100%;
+    position: fixed; top: 0; left: 0;
+    background-color:#000011;
+    z-index:-1;
+}
+
+#portfolio, #accordion{
+ color:#ffffff;   
 }
